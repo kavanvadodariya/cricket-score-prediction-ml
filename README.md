@@ -19,3 +19,6 @@ A machine learning project to predict cricket match scores using historical data
    <img width="572" height="777" alt="image" src="https://github.com/user-attachments/assets/c525e8e3-b8d7-445e-a11c-8ed682b84916" />
 
 
+## License
+- Code: MIT License  
+- Research Paper: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
